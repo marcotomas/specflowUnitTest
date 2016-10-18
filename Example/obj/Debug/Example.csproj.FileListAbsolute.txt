@@ -1,0 +1,4 @@
+C:\Users\mft\Documents\Visual Studio 2015\Projects\specflowtest\Example\bin\Debug\Example.dll
+C:\Users\mft\Documents\Visual Studio 2015\Projects\specflowtest\Example\bin\Debug\Example.pdb
+C:\Users\mft\Documents\Visual Studio 2015\Projects\specflowtest\Example\obj\Debug\Example.dll
+C:\Users\mft\Documents\Visual Studio 2015\Projects\specflowtest\Example\obj\Debug\Example.pdb

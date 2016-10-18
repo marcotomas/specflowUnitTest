@@ -1,0 +1,14 @@
+C:\Users\mft\Documents\Visual Studio 2015\Projects\specflowtest\specflowtest\bin\Debug\Default.srprofile
+C:\Users\mft\Documents\Visual Studio 2015\Projects\specflowtest\specflowtest\bin\Debug\specflowtest.dll.config
+C:\Users\mft\Documents\Visual Studio 2015\Projects\specflowtest\specflowtest\bin\Debug\specflowtest.dll
+C:\Users\mft\Documents\Visual Studio 2015\Projects\specflowtest\specflowtest\bin\Debug\specflowtest.pdb
+C:\Users\mft\Documents\Visual Studio 2015\Projects\specflowtest\specflowtest\bin\Debug\Example.dll
+C:\Users\mft\Documents\Visual Studio 2015\Projects\specflowtest\specflowtest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mft\Documents\Visual Studio 2015\Projects\specflowtest\specflowtest\bin\Debug\SpecRun.SpecFlowPlugin.dll
+C:\Users\mft\Documents\Visual Studio 2015\Projects\specflowtest\specflowtest\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\mft\Documents\Visual Studio 2015\Projects\specflowtest\specflowtest\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\mft\Documents\Visual Studio 2015\Projects\specflowtest\specflowtest\bin\Debug\Example.pdb
+C:\Users\mft\Documents\Visual Studio 2015\Projects\specflowtest\specflowtest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\mft\Documents\Visual Studio 2015\Projects\specflowtest\specflowtest\obj\Debug\specflowtest.csprojResolveAssemblyReference.cache
+C:\Users\mft\Documents\Visual Studio 2015\Projects\specflowtest\specflowtest\obj\Debug\specflowtest.dll
+C:\Users\mft\Documents\Visual Studio 2015\Projects\specflowtest\specflowtest\obj\Debug\specflowtest.pdb
